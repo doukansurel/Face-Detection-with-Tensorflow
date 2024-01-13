@@ -23,7 +23,7 @@ Labelme  [Labelme Doc]([https://github.com/labelmeai/labelme])
 
 # Model Training Result
 
-![Result](images/1.jpg)
+![Result](images.png)
 
 
 
