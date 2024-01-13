@@ -6,9 +6,9 @@
 
 # Libraries
 
-[OpenCV Doc]([https://docs.opencv.org/4.x/d9/df8/tutorial_root.html])
-[Matplotlib Doc]([https://matplotlib.org/stable/tutorials/index])
-[Tensorflow Doc]([https://www.tensorflow.org/tutorials/])
+[OpenCV Doc](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
+[Matplotlib Doc](https://matplotlib.org/stable/tutorials/index)
+[Tensorflow Doc](https://www.tensorflow.org/tutorials/)
 
 # Code Editor
 
