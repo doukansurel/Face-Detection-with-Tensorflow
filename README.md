@@ -6,9 +6,9 @@
 
 # Libraries
 
-OpenCV  [OpenCV Doc]([https://choosealicense.com/licenses/mit/](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
-Matplotlib  [Matplotlib Doc]([[https://choosealicense.com/licenses/mit/](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)https://docs.opencv.org/4.x/d9/df8/tutorial_root.html](https://matplotlib.org/stable/tutorials/index))
-Tensorflow  [Tensorflow Doc]([[https://choosealicense.com/licenses/mit/](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)https://docs.opencv.org/4.x/d9/df8/tutorial_root.html](https://www.tensorflow.org/tutorials/)https://www.tensorflow.org/tutorials/)
+OpenCV: [OpenCV Doc]([https://docs.opencv.org/4.x/d9/df8/tutorial_root.html])
+Matplotlib:  [Matplotlib Doc]([https://matplotlib.org/stable/tutorials/index])
+Tensorflow: [Tensorflow Doc]([https://www.tensorflow.org/tutorials/])
 
 # Code Editor
 
