@@ -18,7 +18,7 @@ Jupyter Notebook or Colab
 
 If you want to create your own dataset for face detection; First, start with the first 100 data, as in the Project (The number choice is left to you). You can increase your data set with Data_augmented in the later parts of the project. It is available in the codes within the project. You may have an option to use Labelme to label your own dataset.
 
-Labelme  [Labelme Doc]([https://github.com/labelmeai/labelme])
+[Labelme Doc](https://github.com/labelmeai/labelme)
 
 
 # Model Training Result
